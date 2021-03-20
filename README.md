@@ -3,6 +3,10 @@
 This analysis is done as a part of Udacity Data Science Nano degree course. 
 It utilises the Kaggle data for airbnb accomodations in two cities: Seattle and Boston in 2016-17 years.
 I have used the following libraries in my analysis: pandas, import_ipynb, matplotlib,sklearn
+Contents of the repository:
+1. data folder containing the Airbnb data for boston and seattle used in the study in csv format
+2. analysis_utils.ipynb - notebook with UDFs that I created to re-use in my analysis and avoid code duolication
+3. airbnb_data_analysis.ipynb - notebook including the script that analyses and describes data aand rund linear regressions to answer the questions of the study.
 
 The aim of this study is to learn the following:
 1. What city has higher proces for Airbnb accomodations? Answer: Boston is more expensive.
